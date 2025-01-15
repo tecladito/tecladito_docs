@@ -1,0 +1,3 @@
+# Modificar la imagen
+
+wip...
